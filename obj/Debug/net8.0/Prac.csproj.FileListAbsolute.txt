@@ -1,0 +1,15 @@
+/workspaces/Prac/bin/Debug/net8.0/Prac
+/workspaces/Prac/bin/Debug/net8.0/Prac.deps.json
+/workspaces/Prac/bin/Debug/net8.0/Prac.runtimeconfig.json
+/workspaces/Prac/bin/Debug/net8.0/Prac.dll
+/workspaces/Prac/bin/Debug/net8.0/Prac.pdb
+/workspaces/Prac/obj/Debug/net8.0/Prac.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Prac/obj/Debug/net8.0/Prac.AssemblyInfoInputs.cache
+/workspaces/Prac/obj/Debug/net8.0/Prac.AssemblyInfo.cs
+/workspaces/Prac/obj/Debug/net8.0/Prac.csproj.CoreCompileInputs.cache
+/workspaces/Prac/obj/Debug/net8.0/Prac.sourcelink.json
+/workspaces/Prac/obj/Debug/net8.0/Prac.dll
+/workspaces/Prac/obj/Debug/net8.0/refint/Prac.dll
+/workspaces/Prac/obj/Debug/net8.0/Prac.pdb
+/workspaces/Prac/obj/Debug/net8.0/Prac.genruntimeconfig.cache
+/workspaces/Prac/obj/Debug/net8.0/ref/Prac.dll
